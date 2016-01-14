@@ -1,0 +1,2 @@
+# testhoge
+hoge script
